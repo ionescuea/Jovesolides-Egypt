@@ -13,7 +13,7 @@ The website page can be accessed here [Jovesolides Egypt](https://alex.syserp.on
 
 The main page, Home, displays the menu of the website and info about the company.
 
-![Main-page](https://alex.syserp.online/)
+![Menu](public/Menu.png)
 
 Next, on the menu, the user can navigate between different pages as needed.
 
