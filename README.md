@@ -7,7 +7,7 @@ This is a project developed in WordPress, using NicePage plugin, based on a Figm
 
 ## Instalation
 
-The website page can be accessed here [Jovesolides Egypt](https://alex.syserp.online/).
+The website page can be accessed here [Jovesolides Egypt](https://alex.jove-egypt.com).
 
 ## Usage
 
